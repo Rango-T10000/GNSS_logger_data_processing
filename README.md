@@ -10,5 +10,6 @@ conda create -n gps python=3.8 -y
 conda activate gps
 conda install numpy
 conda install pandas
- conda install xarray
+conda install xarray
+pip install pymap3d
 ```
